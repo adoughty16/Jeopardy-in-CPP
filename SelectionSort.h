@@ -11,7 +11,7 @@ using namespace::std;
 
 template<typename Comparable>
 
-//This is a modified version of selectionSort that we used last semester in 124 (124?)
+//This is a modified version of a sorting algorithm I took from a class in data structures/algos.
 //I didn't write 98% of this code.
 
 void selectionSort(vector<Comparable>& vec) {
